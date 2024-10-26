@@ -1,5 +1,4 @@
 package login;
-kkk
 	
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
