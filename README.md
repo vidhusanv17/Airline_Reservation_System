@@ -2,4 +2,4 @@
 
 Latest project
 
-it is java based
+it is java console based
